@@ -1,1 +1,1 @@
-<h1> Detect Human Emotions on Live Camera Feed Using Pretrained Model </h1>
+<h1> Detect Human Emotions from Camera Feed Using Pretrained Model </h1>
